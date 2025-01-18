@@ -1,12 +1,7 @@
-**Online Boutique** is a cloud-first microservices demo application.
-Online Boutique consists of an 11-tier microservices application. The application is a
-web-based e-commerce app where users can browse items,
-add them to the cart, and purchase them.
+**Online Boutique** is a cloud-first microservices demo application.  
+Online Boutique consists of an 11-tier microservices application. The application is a web-based e-commerce app where items can be browsed, added to the cart, and purchased.
 
-Google uses this application to demonstrate the use of technologies like
-Kubernetes, GKE, Istio, Stackdriver, and gRPC. This application
-works on any Kubernetes cluster, like Google
-Kubernetes Engine (GKE). It’s **easy to deploy with little to no configuration**.
+This application was developed to demonstrate the use of AWS techn
 
 ## Screenshots
 
